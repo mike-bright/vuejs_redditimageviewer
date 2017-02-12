@@ -1,6 +1,6 @@
-# reddit-gallery
+# vuejs_redditimageviewer
 
-> Reddit image viewer using vue.js
+> Reddit image viewer using Vue.js
 
 ## Build Setup
 
